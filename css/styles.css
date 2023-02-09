@@ -1,0 +1,22 @@
+body {
+    background-color: #FC7300;
+}
+
+hr {
+    border-color: #1F8A70;
+    border-style: dotted none none none;
+    /*Defines the style of all 4 lines of the box, starting from bottom and going clockwise*/
+    height: 0px;
+    width: 95%;
+    /*Can be set in px or %(of the page)*/
+    border-width: 8px;
+}
+
+h1 {
+    color: #1F8A70;
+}
+
+h3 {
+    color: #00425A;
+
+}
